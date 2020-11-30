@@ -1,12 +1,12 @@
 public class SignIn
 {
 	private int id;
-
+<<<<<<< HEAD
 	private String name;
-
-
+	public void sign(){}
+=======
 	public void sign(){
 	   System.out.println("id -"+id);
 	}
-
+>>>>>>> 8488baf4ae728ab49d7021e06b63cc5b7a704fbc
 }
